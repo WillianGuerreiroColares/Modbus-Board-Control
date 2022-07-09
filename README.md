@@ -1,4 +1,6 @@
-# Setup
+# Setup for RS485 16CH Relay Board - Modbus RTU
+
+![Alt text](/Documents/board.jpg?raw=true "Title")
 
 ## Pre-requisites
 
