@@ -1,0 +1,11 @@
+Arduino Code
+https://www.instructables.com/Arduino-Controlled-Modbus-Relay-Board/
+
+Protocol Explanation
+https://ozeki.hu/p_5848-relay-board.html
+
+CRC-16 Generator
+https://crccalc.com/
+
+Python MODBUS RTU LIUB
+https://minimalmodbus.readthedocs.io/en/stable/usage.html
